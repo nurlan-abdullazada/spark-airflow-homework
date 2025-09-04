@@ -1,0 +1,11 @@
+apache-airflow-providers-apache-spark==4.1.5
+apache-airflow-providers-docker==3.7.5
+apache-airflow-providers-ssh==3.7.3
+apache-airflow[postgres]
+pyspark==3.5.0
+pyodbc==4.0.39
+sqlalchemy
+pytest
+apache-airflow-providers-fab==2.0.2
+apache-airflow-providers-celery>=3.3.0
+pyarrow

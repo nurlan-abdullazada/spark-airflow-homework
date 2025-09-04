@@ -1,0 +1,12 @@
+# Airflow generated files
+logs/
+__pycache__/
+*.pyc
+.env
+
+# Data files (too large for GitHub)
+data/*.parquet
+output/
+
+# Docker volumes
+postgres-db-volume/
